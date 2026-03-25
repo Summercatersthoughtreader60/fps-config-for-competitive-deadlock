@@ -1,4 +1,15 @@
 Hello everyone, I want to put on the shelves all the popular questions on how to turn on, etc. (the list will be updated)
+⚠️ Note about map rendering issues
+
+If you encounter a strange-looking map, visual glitches, or incorrect lighting (for example: broken shadows, flickering objects, or overly dark/bright areas), it is recommended to:
+
+👉 Disable shadows in the in-game settings
+
+This issue may occur due to aggressive graphics optimizations or conflicts with custom config values related to lighting and shadow rendering.
+
+Disabling shadows helps stabilize rendering and prevents most visual bugs on certain maps.
+
+
 
 \\ LIGHT
 r_drawskybox "1" // Enables sky rendering (skybox)

